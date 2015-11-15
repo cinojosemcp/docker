@@ -16,4 +16,3 @@ RUN apt-get install -y software-properties-common && \
     rm -rf /var/cache/oracle-jdk7-installer
 
 ENV JAVA_HOME /usr/lib/jvm/java-7-oracle
-
